@@ -1,4 +1,4 @@
-# Docker 
+# Docker Pympress
 
 Docker image for [pympress](https://github.com/Cimbali/pympress)
 
