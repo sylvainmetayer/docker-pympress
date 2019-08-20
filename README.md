@@ -2,6 +2,12 @@
 
 Docker image for [pympress](https://github.com/Cimbali/pympress)
 
+## Build it 
+
+Feel free to edit the `pympress` config file to fit your need which will be then copied to the image while building.
+
+- `make build`
+
 ## Run it 
 
 ### X11

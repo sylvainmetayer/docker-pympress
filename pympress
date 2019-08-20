@@ -1,0 +1,19 @@
+[content]
+xalign = 0.50
+yalign = 0.50
+start_blanked = on
+start_fullscreen = on
+
+[presenter]
+start_fullscreen = off
+pointer = red
+show_bigbuttons = on
+show_annotations = off
+scroll_number = off
+
+[cache]
+maxpages = 100
+
+[scribble]
+color = rgb(255,0,0)
+width = 8
