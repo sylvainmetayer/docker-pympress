@@ -7,7 +7,7 @@ RUN apt-get update && \
     mkdir -p /data/.config
 
 WORKDIR /data
-ENV HOME /data
+#ENV HOME /data
 COPY pympress /data/.config/pympress
 
 VOLUME ["/data"]
